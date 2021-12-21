@@ -1,0 +1,13 @@
+body {background-color:rgb(255, 255, 255);}
+h1{color:gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: white;
+    color: black;
+    width: 400px;
+    padding: 25px;
+    border-radius:200px ;
+    margin: auto;
+}
+
